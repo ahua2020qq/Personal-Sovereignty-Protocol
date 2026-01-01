@@ -9,6 +9,8 @@ A Solemn Request:​ The code is MIT-licensed, free for use. The soul of the pro
 
 \# Personal-Sovereignty-Protocol (PSP) / 个人主权宣言
 
+The first line of this project is a sovereignty commitment to users.
+Next, we will implement offline tasks, encrypted notes, and local document processing step by step, turning the slogan "data belongs to you" into daily life.If you are also tired of data being harvested and yearn for a digital sense of security; if you are a developer, designer, or technical writer who identifies with this original aspiration; welcome to search for [Personal-Sovereignty-Protocol] on GitHub and join us in defining a more dignified digital future!
 
 
 !\[License](https://img.shields.io/badge/License-Apache\_2.0-blue.svg)
@@ -103,6 +105,8 @@ We believe the next frontier of liberty is \*\*freedom of thought\*\*, safeguard
 
 \## 中文
 
+项目的第一行，是给用户的主权承诺。
+接下来，我们会一步步落地离线任务、加密笔记、本地文档处理，让 “数据归自己” 从口号变成日常。如果你也厌倦了数据被收割，渴望一份数字安全感；如果你是开发者、设计师、文档作者，认同这份初心；欢迎来 GitHub 搜【Personal-Sovereignty-Protocol】，和我们一起，定义一个更有尊严的数字未来！
 
 
 \### 🌟 愿景
