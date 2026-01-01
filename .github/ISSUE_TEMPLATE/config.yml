@@ -1,0 +1,77 @@
+# ==========================================
+# PSP Project Configuration / PSP项目配置
+# ==========================================
+
+# -------- 项目基础信息 / Basic Project Info --------
+project:
+  name: "Personal Sovereignty Protocol"
+  version: "0.1.0"
+  description: "A framework for sovereign, offline-first intelligent assistants. / 一个用于主权、离线优先智能助手的基础框架。"
+
+# -------- 应用设置 / Application Settings --------
+app:
+  # 界面语言设置。可选值: "en", "zh-CN", "auto" (auto will use system locale)
+  # UI language setting. Options: "en", "zh-CN", "auto" (auto将使用系统语言)
+  locale: "auto"
+  # 日志级别。可选值: "DEBUG", "INFO", "WARNING", "ERROR"
+  # Logging level. Options: "DEBUG", "INFO", "WARNING", "ERROR"
+  log_level: "INFO"
+  # 日志文件路径
+  # Log file path
+  log_file: "logs/psp_app.log"
+
+# -------- 本地AI模型配置 / Local AI Model Configuration --------
+ai:
+  # 本地模型引擎类型。例如: "ollama", "transformers"
+  # Local model engine type. E.g., "ollama", "transformers"
+  engine: "ollama"
+  # 使用的模型名称 (例如: "qwen2.5:7b")
+  # Model name to use (e.g., "qwen2.5:7b")
+  model_name: "qwen2.5:7b"
+  # 模型基本URL（如果使用本地Ollama，通常是 http://localhost:11434）
+  # Base URL for the model (if using local Ollama, typically http://localhost:11434)
+  base_url: "http://localhost:11434"
+  # 上下文长度（Token数）
+  # Context length (in tokens)
+  context_length: 4096
+
+# -------- 数据存储路径 / Data Storage Paths --------
+paths:
+  # 知识库数据目录
+  # Knowledge base data directory
+  knowledge_base: "data/knowledge_base"
+  # 用户数据目录
+  # User data directory
+  user_data: "data/user_data"
+  # 临时文件目录
+  # Temporary files directory
+  temp: "data/temp"
+
+# -------- 隐私与控制设置 / Privacy & Control Settings --------
+privacy:
+  # 是否允许匿名使用数据帮助改进模型（需用户明确同意）
+  # Allow anonymous usage data to help improve models (requires explicit user consent)
+  enable_telemetry: false
+  # 默认离线模式。如果为true，所有操作优先在本地完成。
+  # Default offline mode. If true, all operations prioritize local completion.
+  offline_by_default: true
+  # 隐私保护级别。可选值: "minimal", "standard", "strict"
+  # Privacy protection level. Options: "minimal", "standard", "strict"
+  protection_level: "strict"
+
+# -------- 特定功能配置 / Feature-Specific Configuration --------
+features:
+  # RAG（检索增强生成）配置
+  # RAG (Retrieval-Augmented Generation) configuration
+  rag:
+    enabled: true
+    # 检索时返回的最相关片段数量
+    # Number of most relevant chunks to retrieve
+    top_k: 3
+  # 本地缓存配置
+  # Local cache configuration
+  cache:
+    enabled: true
+    # 缓存有效时间（单位：秒）
+    # Cache validity period (in seconds)
+    ttl: 3600
