@@ -166,8 +166,37 @@ We believe the next frontier of liberty is \*\*freedom of thought\*\*, safeguard
 
 
 
-我们相信，自由的下一个前沿是\*\*思想的自由\*\*，由主权技术来守护。欢迎参与这项奠基工作。
+我们相信，智能的下一个前沿是\*\*离线智能\*\*，需要隐私安全保护技术来守护。欢迎参与这项奠基工作。
 
+🤝 Join the Mission | 加入这项使命
+
+We are building more than code—we are building a future where intelligence serves the individual, not the platform. If you believe in privacy, sovereignty, and the potential of offline-first AI, your contribution matters.
+
+我们正在构建的不仅仅是代码——我们正在构建一个为个体服务、而非为平台服务的未来离线智能应用。如果你坚信隐私、数据主权和离线优先AI的潜力，你的贡献至关重要。
+
+You can contribute in many ways: write code, improve documentation, share ideas in discussions, or simply spread the word. Every effort helps us move closer to a more autonomous and respectful digital world.
+
+你可以通过多种方式参与贡献：编写代码、完善文档、在讨论中分享想法，或仅仅是帮助传播。每一次努力都让我们更接近一个更加自主、相互尊重的数字世界。
+
+Start Here:​
+
+Read our Manifestoand Principles
+
+Explore good first issues
+
+Join the conversation in Discussions
+
+从这里开始：​
+
+阅读我们的宣言与原则
+
+探索入门任务
+
+加入讨论区的对话
+
+Whether you're a developer, designer, writer, thinker, or enthusiast—you are welcome here. Let's build this future, together.
+
+无论你是开发者、设计师、写作者、思考者还是爱好者——这里都欢迎你。让我们一同，构建这样的未来。
 
 
 ---
