@@ -2,7 +2,7 @@
 
 A foundational framework for building sovereign, offline-first intelligent assistants. Where your data, your models, and your agency remain yours. This is the constitutional bedrock for the future of human-AI interaction.
 
-
+A Solemn Request:​ The code is MIT-licensed, free for use. The soul of the project, however, resides in the /docsdirectory. We kindly request that derivatives preserve these core documents (Manifesto, Principles, Trust Framework) in their entirety to honor our shared vision of individual sovereignty.
 
 \# Personal-Sovereignty-Protocol (PSP) / 个人主权宣言
 
@@ -107,10 +107,10 @@ We believe the next frontier of liberty is \*\*freedom of thought\*\*, safeguard
 我们并非在打造另一个AI应用。我们正在为下一代人机离线智能交互应该遵循的基本规则：\*\*离线基石\*\*。
 
 
-
 个人主权宣言 (PSP) 是一个开源框架，旨在赋能开发者和个体构建并治理\*\*主权化的、离线优先的智能助手\*\*。在这里，您的数据、您的模型和您的自主权，明确无误地归属于您。它是这样一个未来的基石：强大的智能是一种私密、个人化且赋能的能力，而非一个凝视您的服务。
 
-
+一项郑重的请求
+我们致力于打造一个尊重个体隐私与数据主权的未来。本项目代码遵循MIT协议，您可以自由使用。然而，项目的灵魂已深深镌刻于 /docs目录下的核心文件之中。我们恳请任何基于此项目的实践，出于尊重，能够完整保留、不予修改这些文件。
 
 \### 📜 核心原则 (我们的“数字权利法案”)
 
