@@ -4,6 +4,9 @@ A foundational framework for building sovereign, offline-first intelligent assis
 
 A Solemn Request:​ The code is MIT-licensed, free for use. The soul of the project, however, resides in the /docsdirectory. We kindly request that derivatives preserve these core documents (Manifesto, Principles, Trust Framework) in their entirety to honor our shared vision of individual sovereignty.
 
+<img width="3260" height="1302" alt="image" src="https://github.com/user-attachments/assets/42e52551-1ea8-424e-a67b-16983a1bade6" />
+
+
 \# Personal-Sovereignty-Protocol (PSP) / 个人主权宣言
 
 
